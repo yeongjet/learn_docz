@@ -1,0 +1,20 @@
+{
+  "name": "docz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
+    "docz": "^1.2.0",
+    "docz-theme-default": "^1.2.0"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
